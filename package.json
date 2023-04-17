@@ -7,6 +7,9 @@
   "files": [
     "build/**/*"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "clean": "del ./build/*",
     "build": "yarn clean && tsc",
