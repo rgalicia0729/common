@@ -1,6 +1,6 @@
 {
   "name": "@rg-ticketing/common",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Example of how to share code between services through a package",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
